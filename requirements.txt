@@ -1,0 +1,7 @@
+os
+requests
+colorama
+socket
+threading
+concurrent
+urllib
