@@ -1,7 +1,6 @@
 # 🔥 CLI HackBox
 
-A lightweight Python-based recon toolkit for ethical hackers, bug bounty hunters, and cybersecurity enthusiasts.  
-Simple. Fast. Effective.
+A lightweight Python-based recon toolkit for ethical hackers, bug bounty hunters, and cybersecurity enthusiasts.
 
 ---
 
