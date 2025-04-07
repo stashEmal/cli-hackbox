@@ -14,6 +14,16 @@ A lightweight Python-based recon toolkit for ethical hackers, bug bounty hunters
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/ss1.png" width="300" height="auto" style="margin-right: 10px;">
+  <img src="screenshots/ss2.png" width="300" height="auto" style="margin-right: 10px;">
+  <img src="screenshots/ss3.png" width="300" height="auto" style="margin-right: 10px;">
+</p>
+
+---
+
 ## 📥 Installation
 
 1. Clone the repository:
